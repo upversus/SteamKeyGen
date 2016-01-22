@@ -34,7 +34,7 @@ object Form1: TForm1
       ExplicitSize.cy = 26.000000000000000000
       object Button1: TButton
         Tag = 1
-        Position.X = 411.000000000000000000
+        Position.X = 503.000000000000000000
         Position.Y = 8.000000000000000000
         Size.Width = 93.000000000000000000
         Size.Height = 22.000000000000000000
@@ -47,7 +47,7 @@ object Form1: TForm1
         Enabled = False
         Position.X = 12.000000000000000000
         Position.Y = 496.000000000000000000
-        Size.Width = 489.000000000000000000
+        Size.Width = 585.000000000000000000
         Size.Height = 22.000000000000000000
         Size.PlatformDefault = False
         TabOrder = 1
@@ -60,7 +60,7 @@ object Form1: TForm1
         TabOrder = 2
         MaxLength = 5
         FilterChar = '0123456789'
-        Position.X = 304.000000000000000000
+        Position.X = 392.000000000000000000
         Position.Y = 8.000000000000000000
       end
       object PopupBox1: TPopupBox
@@ -70,7 +70,7 @@ object Form1: TForm1
           'AAAAA-BBBBB-CCCCC')
         Position.X = 12.000000000000000000
         Position.Y = 8.000000000000000000
-        Size.Width = 285.000000000000000000
+        Size.Width = 369.000000000000000000
         Size.Height = 22.000000000000000000
         Size.PlatformDefault = False
         TabOrder = 3
@@ -80,12 +80,12 @@ object Form1: TForm1
         DataDetectorTypes = []
         Position.X = 12.000000000000000000
         Position.Y = 38.000000000000000000
-        Size.Width = 489.000000000000000000
+        Size.Width = 585.000000000000000000
         Size.Height = 415.000000000000000000
         Size.PlatformDefault = False
         TabOrder = 4
         OnClick = Memo1Click
-        Viewport.Width = 487.000000000000000000
+        Viewport.Width = 583.000000000000000000
         Viewport.Height = 413.000000000000000000
       end
       object Edit3: TEdit
@@ -93,7 +93,7 @@ object Form1: TForm1
         TabOrder = 5
         Position.X = 12.000000000000000000
         Position.Y = 466.000000000000000000
-        Size.Width = 489.000000000000000000
+        Size.Width = 585.000000000000000000
         Size.Height = 22.000000000000000000
         Size.PlatformDefault = False
       end
@@ -134,8 +134,8 @@ object Form1: TForm1
         Size.Height = 75.000000000000000000
         Size.PlatformDefault = False
         TabOrder = 0
-        Viewport.Width = 589.000000000000000000
-        Viewport.Height = 71.000000000000000000
+        Viewport.Width = 591.000000000000000000
+        Viewport.Height = 73.000000000000000000
       end
       object Label1: TLabel
         Position.X = 16.000000000000000000
@@ -195,8 +195,8 @@ object Form1: TForm1
         Size.Height = 39.000000000000000000
         Size.PlatformDefault = False
         TabOrder = 9
-        Viewport.Width = 401.000000000000000000
-        Viewport.Height = 35.000000000000000000
+        Viewport.Width = 403.000000000000000000
+        Viewport.Height = 37.000000000000000000
       end
       object Memo4: TMemo
         Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
@@ -209,8 +209,8 @@ object Form1: TForm1
         Size.Height = 35.000000000000000000
         Size.PlatformDefault = False
         TabOrder = 8
-        Viewport.Width = 401.000000000000000000
-        Viewport.Height = 31.000000000000000000
+        Viewport.Width = 403.000000000000000000
+        Viewport.Height = 33.000000000000000000
       end
       object CheckBox3: TCheckBox
         Enabled = False

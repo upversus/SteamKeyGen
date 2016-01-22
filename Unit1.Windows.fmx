@@ -5,7 +5,7 @@ inherited Form1_Windows: TForm1_Windows
       ExplicitSize.cx = 67.000000000000000000
       ExplicitSize.cy = 26.000000000000000000
       inherited Memo1: TMemo
-        Viewport.Width = 487.000000000000000000
+        Viewport.Width = 583.000000000000000000
         Viewport.Height = 413.000000000000000000
       end
     end
@@ -22,7 +22,7 @@ inherited Form1_Windows: TForm1_Windows
         Viewport.Height = 39.000000000000000000
       end
       inherited Memo4: TMemo
-        TabOrder = 11
+        TabOrder = 10
         Viewport.Width = 405.000000000000000000
         Viewport.Height = 35.000000000000000000
       end
