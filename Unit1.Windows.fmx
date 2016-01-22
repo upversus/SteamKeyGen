@@ -1,0 +1,34 @@
+inherited Form1_Windows: TForm1_Windows
+  DesignerMasterStyle = 0
+  inherited TabControl1: TTabControl
+    inherited TabItem1: TTabItem
+      ExplicitSize.cx = 67.000000000000000000
+      ExplicitSize.cy = 26.000000000000000000
+      inherited Memo1: TMemo
+        Viewport.Width = 487.000000000000000000
+        Viewport.Height = 413.000000000000000000
+      end
+    end
+    inherited TabItem2: TTabItem
+      ExplicitSize.cx = 68.000000000000000000
+      ExplicitSize.cy = 26.000000000000000000
+      inherited Memo2: TMemo
+        Viewport.Width = 593.000000000000000000
+        Viewport.Height = 75.000000000000000000
+      end
+      inherited Memo3: TMemo
+        TabOrder = 8
+        Viewport.Width = 405.000000000000000000
+        Viewport.Height = 39.000000000000000000
+      end
+      inherited Memo4: TMemo
+        TabOrder = 11
+        Viewport.Width = 405.000000000000000000
+        Viewport.Height = 35.000000000000000000
+      end
+      inherited Panel1: TPanel
+        TabOrder = 9
+      end
+    end
+  end
+end
